@@ -10,6 +10,8 @@ Navigate to the EC2 service.
 Click on "Launch Configurations" under "Auto Scaling" in the sidebar menu.
 Click "Create launch configuration" and follow the prompts to configure your launch configuration, including selecting the appropriate Amazon Machine Image (AMI), instance type, security groups, etc.
 ssh into the machines and edit the httpd[Webserver] configuration.
+![GitHub Logo]()
+
 
 ### Set Up Auto Scaling Group:
 After creating the launch configuration, navigate to "Auto Scaling Groups" under "Auto Scaling" in the sidebar menu.
